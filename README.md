@@ -2,7 +2,7 @@
 
 Community managed list of Sound Production how-tos
 
-List of contents.
+Table of contents.
 1. Introduction
 1. Workflow
 1. Sound Design

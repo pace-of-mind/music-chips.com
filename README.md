@@ -1,20 +1,6 @@
-# Sound Production Geeks
+# Music Production Chips
 
-Community managed list of Sound Production how-tos
+This is a community-managed collection of tips and tricks for all stages of the music production process. All chips are labeled by Stage, Genre, Instrument, and Difficulty.
 
-Table of contents.
-1. Introduction
-1. Workflow
-1. Sound Design
- 1. Live instruments
- 1. Synthesisers
- 1. Sampling
- 1. Layering
- 1. Processing
-1. Live audio
- 1. Recording
- 1. Editing
-1. Arrangement
-1. Mixing
-1. Mastering
-1. Distributing
+## Contribution guideline
+Work in progress, in the meanwhile feel free to add a PR or/and message me if you have any questions.

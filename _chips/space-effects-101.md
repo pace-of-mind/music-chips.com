@@ -41,4 +41,4 @@ Aux is mainly used at the Mixing stage. If you have ten instruments `sent` to th
 You can also consider applying more advanced techniques while working with Aux effects:
 - Automating effect gain, e.g. reducing it in the quiet parts and increasing in more epic parts like at the end of a bridge or solo
 - Apply ducking/sidechain from the lead instruments to remove mud
-- Applying [Brauerizing]({% link _chips/brauerizing.md %}) to the ALL_RETURNS bus
+- Applying [Brauerizing]({% link _chips/brauerizing.md %}) to the `ALL_RETURNS` bus

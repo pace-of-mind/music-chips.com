@@ -5,8 +5,8 @@ This is a community-managed collection of tips and tricks for all stages of the 
 ## Website
 All content from this repo is available under https://music-chips.com/
 
-## Contribution guideline
-Work in progress, in the meanwhile feel free to add a PR or/and message me if you have any questions.
+## Contributing
+Check [contributing.md](contributing.md)
 
 ## Running locally
 1. Install [Jekyll](https://jekyllrb.com/docs/installation/)

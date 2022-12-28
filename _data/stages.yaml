@@ -1,0 +1,12 @@
+stages:
+  - general
+  - ideation
+  - arrangement
+  - recording
+  - sound design
+  - editing
+  - mixing
+  - mastering
+  - live performance
+  - streaming
+  - remixing

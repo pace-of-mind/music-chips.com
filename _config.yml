@@ -1,1 +1,40 @@
-theme: jekyll-theme-minimal
+title: Music Production Chips
+description: >- # this means to ignore newlines until "baseurl:"
+  Welcome to Music Production Chips, where you'll find a treasure trove of
+  music production tips and tricks for a wide variety of genres. Whether you're
+  a seasoned producer or just starting out, we've got something for everyone.
+  From electronic dance music to hip hop, rock, and beyond, we've got you
+  covered. Explore our site and start improving your music production skills
+  today!
+baseurl: "/"
+url: "https://music-chips.com"
+youtube_username: "@side_gig"
+github_username:  "music-production-chips"
+instagram_username: aka_unicast
+
+# Build settings
+# theme: just-the-docs
+theme: minima
+plugins:
+  - jekyll-feed
+
+feed:
+  collections:
+    - chips
+
+collections:
+  chips:
+    output: true
+    permalink: /:collection/:name.html
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "chips"
+    values:
+      layout: "chip"

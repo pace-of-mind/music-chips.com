@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: single
 title: Contributing
 permalink: "/contributing.html"
 ---
-# Contributing
 ## Why
 This project is designed to be community-driven and following open-source
 principles. All information presented on the website is available as a source

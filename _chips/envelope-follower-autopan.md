@@ -1,5 +1,5 @@
 ---
-name: Envelop Follower with Autopan
+title: Envelop Follower with Autopan
 description: >
   If you'd like to enrich the high-end of your synthesizer and extend the
   stereo image, you can create an envelope follower, map it to the amount on

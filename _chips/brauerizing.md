@@ -1,5 +1,5 @@
 ---
-name: Brauerizing
+title: Brauerizing
 description: >
   The term "Brauerizing" refers to a mixing technique developed by Michael
   Brauer, a Grammy award-winning mixing engineer. It involves feeding audio

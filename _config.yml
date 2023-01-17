@@ -8,19 +8,42 @@ description: >- # this means to ignore newlines until "baseurl:"
   today!
 baseurl: "/"
 url: "https://music-chips.com"
+locale: en
 youtube_username: "@side_gig"
 github_username:  "music-production-chips"
 instagram_username: aka_unicast
+footer:
+  links:
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com/@side_gig"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/pace-of-mind/music-chips.com"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/aka_unicast"
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-CK3ESJQG6Q"
+    anonymize_ip: false
 
 # Build settings
-# theme: just-the-docs
-theme: minima
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "mint"
+
 plugins:
   - jekyll-feed
 
 feed:
   collections:
     - chips
+
+atom_feed:
+  hide: true
+
+search: true
 
 collections:
   chips:

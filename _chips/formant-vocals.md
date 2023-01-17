@@ -1,5 +1,5 @@
 ---
-name: Formant Vocals
+title: Formant Vocals
 description: >
   This technique can be used together with the Double Vocals
   technique if you are not happy with the result. Adjusting formants of the

@@ -1,5 +1,5 @@
 ---
-name: Pultec EQ
+title: Pultec EQ
 description: >
   A technique derived from the use of the legendary vintage tube EQ from Pultec,
   which boosts the frequencies below the cut-off. The idea is to gain more

@@ -1,5 +1,5 @@
 ---
-name: Space Effects 101 and Basic Setup
+title: Space Effects 101 and Basic Setup
 description: >
   Space sound effects like reverberation and delay are commonly used in music production to add depth and atmosphere to tracks. Reverb simulates the reflections of sound in a physical space, while delay involves repeating a sound at a later time to create an echo effect. These effects can help bring a sense of space and texture to a song. In this article, we'll explore the technical and creative aspects of using reverb and delay in music production.
 yt_video:

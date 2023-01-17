@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 title: By Difficulty
 ---
 {% assign tags = site.data.difficulty | map: 'difficulty' | uniq %}

@@ -1,5 +1,5 @@
 ---
-name: Understanding Transients
+title: Understanding Transients
 description: >
   Short description of the chip
 yt_video:

@@ -1,5 +1,5 @@
 ---
-name: Understanding Microphones
+title: Understanding Microphones
 description: >
   Short description of the chip
 yt_video:

@@ -1,5 +1,5 @@
 ---
-name: Double Vocals
+title: Double Vocals
 description: >
   If you'd like to emphasise certain words or a phrase, you can do it by
   duplicating the part of the main vocal, tuning it an octave down or up

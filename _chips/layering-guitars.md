@@ -1,5 +1,5 @@
 ---
-name: Layering Guitars
+title: Layering Guitars
 description: >
   Guitar layering is a technique used in music production to create a fuller, more complex guitar sound by layering multiple recordings of the same or similar guitar parts on top of one another. This can be done using a single guitar recorded at different times, or by using multiple guitars played in unison.
 yt_video: https://www.youtube.com/embed/2Gv2ykCz7-U

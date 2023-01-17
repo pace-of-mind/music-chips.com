@@ -1,5 +1,5 @@
 ---
-name: Music Production 101 - Overview
+title: Music Production 101 - Overview
 description: >
   Short description of the chip
 yt_video:

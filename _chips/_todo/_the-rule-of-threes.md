@@ -1,5 +1,5 @@
 ---
-name: The Rule of Threes
+title: The Rule of Threes
 description: >
   Short description of the chip
 yt_video:

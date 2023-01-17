@@ -10,7 +10,7 @@ All chips are labeled by Stage, Genre, Instrument, and Difficulty.
 
 ## Random Chip
 {% assign random_chip = site.chips | sample %}
-### [{{ random_chip.name }}]({{ random_chip.url }})
+### [{{ random_chip.title }}]({{ random_chip.url }})
 ``` {{ random_chip.description }} ```
 
 
@@ -21,7 +21,7 @@ All chips are labeled by Stage, Genre, Instrument, and Difficulty.
   <ul>
   {% for chip in site.chips %}
     {% if chip.stage contains stage %}
-    <li><a href="{{ chip.url }}">{{ chip.name }}</a></li>
+    <li><a href="{{ chip.url }}">{{ chip.title }}</a></li>
     {% endif %}
   {% endfor %}
   </ul>

@@ -1,5 +1,5 @@
 ---
-name: Understanding Voice Frequencies and Equalisation
+title: Understanding Voice Frequencies and Equalisation
 description: >
   Short description of the chip
 yt_video:

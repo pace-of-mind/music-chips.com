@@ -1,5 +1,5 @@
 ---
-name: Understanding Frequency Bands
+title: Understanding Frequency Bands
 description: >
   Short description of the chip
 yt_video:

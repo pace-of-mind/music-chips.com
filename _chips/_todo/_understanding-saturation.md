@@ -1,5 +1,5 @@
 ---
-name: Understanding Saturation
+title: Understanding Saturation
 description: >
   Short description of the chip
 yt_video:

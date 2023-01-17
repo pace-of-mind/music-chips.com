@@ -26,7 +26,7 @@ footer:
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "GTM-KDQQT5L"
+    tracking_id: "G-CK3ESJQG6Q"
     anonymize_ip: false
 
 # Build settings

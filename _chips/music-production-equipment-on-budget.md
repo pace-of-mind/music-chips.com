@@ -13,8 +13,8 @@ difficulty:
   - easy
 ---
 ## Understanding your goals
-If you're just starting with the music production, it's very easy to get lost. An easy way to start is to define your objectives. If you don't have a clear goal in mind like "I'd like to produce five melodic-techno tracks and try to get on a label X", it could be something as simple as "record a song cover for your beloved one and see if I like making covers". Or "I have a nice guitar riff, and I'd like to make a full song out of it".
-Having that goal in mind, you will be able to ask yourself a question, "which equipment do I need to achieve this goal" instead of "which equipment I'd like to have to make music".
+If you're just starting with music production, it's very easy to get lost. An easy way to start is to define your objectives. If you don't have a clear goal in mind like "I'd like to produce five melodic-techno tracks and try to get on a label X", it could be something as simple as "record a song cover for your beloved one and see if I like making covers". Or "I have a nice guitar riff, and I'd like to make a full song out of it".
+Having that goal in mind, you will be able to ask yourself the question, "which equipment do I need to achieve this goal" instead of "which equipment I'd like to have to make music".
 
 ## Hypothetical example
 Let’s imagine you’re a singer-songwriter, and you’d like to record your first song. A few more details - indie rock style, simple ABAB structure, no solo, maybe a repeated chorus. Acoustic guitar, voice, back vocals, bass, drums, shakers, claps, maybe, piano and a synth. To make a complete recording, you need at least these three things:
@@ -27,7 +27,7 @@ Unless you have a cheap way to outsource all the above, you will need a computer
 
 ## DAW
 There are good cheap or even free digital audio workstations.
-Consider [Cakewalk](https://www.bandlab.com/products/cakewalk) if you are on PC, or [GarageBand](https://www.apple.com/mac/garageband/) on Mac.
+Consider [Cakewalk](https://www.bandlab.com/products/cakewalk) if you are on PC or [GarageBand](https://www.apple.com/mac/garageband/) on Mac.
 Discounted license for [Reaper](https://www.reaper.fm/) costs as low as $60 and has a 60-days trial.
 
 >For the song above, I would suggest going with GarageBand because it comes with a good set of sounds, plus it can generate a good-sounding drum track.
@@ -43,8 +43,8 @@ Apple EarPods. Yes, the wired ones for $15 on a classifieds website. You can wea
 
 ## Microphone
 Just use the one built into your EarPods. Seriously, if you can get a good-sounding space (see below) for the recording, you can get a darn well-sounding track!
-You will need to find a position of the mic to avoid overloading it while singing and hang it on something while playing the guitar.
-Also you need to apply an EQ: bring 2200Hz down by 12dB and 6000Hz down by 9dB.
+You will need to find a position for the mic to avoid overloading it while singing and hang it on something while playing the guitar.
+Also, you need to apply an EQ: bring 2200Hz down by 12 dB and 6000Hz down by 9 dB.
 
 ## Recording Space
 Probably, you already heard about acoustic-treatment? There are "budget" options, but you can do that later once you know you need it. For now, you can wrap the blanket around yourself. You will not believe how many recordings were done that way.

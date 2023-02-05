@@ -17,6 +17,6 @@ instrument:
   - bass
   - sub-bass
   - kick
-difficulty:
-  - moderate
+level:
+  - advanced
 ---

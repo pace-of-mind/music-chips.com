@@ -12,6 +12,6 @@ stage:
   - editing
 instrument:
   - synthesizer
-difficulty:
-  - moderate
+level:
+  - advanced
 ---

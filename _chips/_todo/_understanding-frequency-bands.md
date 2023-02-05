@@ -12,7 +12,7 @@ stage:
   - mastering
 instrument:
   - all
-difficulty:
-  - moderate
+level:
+  - advanced
 ---
 Write a how-to here or leave it blank to only display the video.

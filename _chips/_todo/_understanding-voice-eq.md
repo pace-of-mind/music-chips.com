@@ -11,7 +11,7 @@ stage:
   - mixing
 instrument:
   - voice
-difficulty:
-  - moderate
+level:
+  - advanced
 ---
 Write a how-to here or leave it blank to only display the video.

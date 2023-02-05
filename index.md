@@ -6,7 +6,7 @@ layout: home
 ---
 # Music Production Chips
 This is a community-managed collection of tips and tricks for all stages of the music production process.
-All chips are labeled by Stage, Genre, Instrument, and Difficulty.
+All chips are labeled by Stage, Genre, Instrument, and Skill Level.
 
 ## Random Chip
 {% assign random_chip = site.chips | sample %}

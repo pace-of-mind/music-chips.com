@@ -9,8 +9,8 @@ stage:
   - general
 instrument:
   - all
-difficulty:
-  - easy
+level:
+  - beginner
 ---
 # Why
 # Workflow / Stages

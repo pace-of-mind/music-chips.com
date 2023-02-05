@@ -1,7 +1,7 @@
 main:
   - title: "All chips"
     url: /chips.html
-  - title: "By Difficulty"
-    url: /group-by-difficulty.html
+  - title: "By level"
+    url: /by-level.html
   - title: "Contributing"
     url: /contributing.html

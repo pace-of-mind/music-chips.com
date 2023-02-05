@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: By Difficulty
+title: By Level
 ---
-{% assign tags = site.data.difficulty | map: 'difficulty' | uniq %}
+{% assign tags = site.data.level | map: 'level' | uniq %}
 {% for tag in tags %}
   <h3>{{ tag }}</h3>
   <ul>
   {% for chip in site.chips %}
-    {% if chip.difficulty contains tag %}
+    {% if chip.level contains tag %}
     <li><a href="{{ chip.url }}">{{ chip.title }}</a></li>
     {% endif %}
   {% endfor %}

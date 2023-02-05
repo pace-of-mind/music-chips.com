@@ -12,7 +12,7 @@ stage:
   - editing
 instrument:
   - vocals
-difficulty:
-  - easy
+level:
+  - beginner
 ---
 Can be used together with [Double Vocals]({% link _chips/double-vocals.md %}).

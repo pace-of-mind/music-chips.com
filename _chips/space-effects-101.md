@@ -9,8 +9,8 @@ stage:
   - mixing
 instrument:
   - all
-difficulty:
-  - easy
+level:
+  - beginner
 ---
 ## The Holy War
 Both reverberation and delay can be added to a sound recording or audio signal through the use of an `insert` effect or an `auxiliary` (aux) effect.

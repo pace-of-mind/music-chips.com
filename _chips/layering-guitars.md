@@ -11,8 +11,8 @@ stage:
   - mixing
 instrument:
   - guitar
-difficulty:
-  - moderate
+level:
+  - advanced
 ---
 To create a guitar layering effect, the producer will typically record multiple takes of the same guitar part, either with a single guitar or with multiple guitars. The takes are then edited and mixed together to create a single, cohesive sound.
 

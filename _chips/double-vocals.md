@@ -12,8 +12,8 @@ stage:
   - editing
 instrument:
   - vocals
-difficulty:
-  - easy
+level:
+  - beginner
 ---
 {% assign link = site.chips | where: "slug", "formant-vocals" | first %}
 Can be used together with [Formant Vocals]({{ link.url }}).

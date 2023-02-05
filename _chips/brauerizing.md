@@ -15,6 +15,6 @@ stage:
   - mixing
 instrument:
   - all
-difficulty:
-  - difficult
+level:
+  - pro
 ---

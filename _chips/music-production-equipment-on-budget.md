@@ -9,8 +9,8 @@ stage:
   - general
 instrument:
   - all
-difficulty:
-  - easy
+level:
+  - beginner
 ---
 ## Understanding your goals
 If you're just starting with music production, it's very easy to get lost. An easy way to start is to define your objectives. If you don't have a clear goal in mind like "I'd like to produce five melodic-techno tracks and try to get on a label X", it could be something as simple as "record a song cover for your beloved one and see if I like making covers". Or "I have a nice guitar riff, and I'd like to make a full song out of it".

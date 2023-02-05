@@ -9,7 +9,7 @@ stage:
   - recording
 instrument:
   - all
-difficulty:
-  - easy
+level:
+  - beginner
 ---
 Write a how-to here or leave it blank to only display the video.

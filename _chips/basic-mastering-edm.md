@@ -12,8 +12,8 @@ stage:
   - mastering
 instrument:
   - all
-difficulty:
-  - easy
+level:
+  - beginner
 
 ---
 - [ ] Route tracks into groups (BUSes), apply [Glue Compressor](/chips/glue-compressor) if needed.

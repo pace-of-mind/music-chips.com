@@ -9,6 +9,6 @@ stage:
   - mixing
 instrument:
   - all
-difficulty:
-  - moderate
+level:
+  - advanced
 ---

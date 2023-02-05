@@ -4,13 +4,13 @@ layout: single
 <article class="post h-entry" itemscope>
 
   <div class="post-content e-content" itemprop="articleBody">
-    <div class="difficulty">
-      Difficulty: {{ page.difficulty }}
+    <div class="level">
+      Level: {{ page.level }}
     </div>
     <p class="description">
       {{ page.description | markdownify }}
     </p>
-    <h3>How-to</h3>
+    <h1>How-to</h1>
     <p class="description">
       {% unless page.content.empty %}
         {{ page.content | markdownify }}

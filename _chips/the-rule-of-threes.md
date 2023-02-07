@@ -1,7 +1,7 @@
 ---
 title: The Rule of Threes
 description: >
-  The Rule of Threes in music is the idea that a song should have three main components: rhythm, melody, and a wildcard. Rhythm is not only the drums or percussions but all repeating elements of the song. Melody is the tune that the listener hums or sings along to. The wildcard is a unique aspect of the track, such as an unusual sound or a special effect, that sets it apart and makes it memorable. It is also referred as "ear candy" or "special element".
+  The Rule of Threes in music is the idea that a song should have three main components: rhythm, melody, and a wildcard. Rhythm is not only the drums or percussions but all repeating elements of the song. Melody is the tune that the listener hums or sings along to. The wildcard is a unique aspect of the track, such as an unusual sound, unexpected chord change, or a special effect, that sets it apart and makes it memorable. It is also referred as “ear candy” or “special element”.
 yt_video:
 genre:
   - all
@@ -19,7 +19,7 @@ All three components are interconnected. If you only have the melody, it will ha
 In modern music, we have pretty clear expectations for rhythm and melody, which adds a bit of mystery to the third element, but in practice, it is simple.
 
 ## Wile writing a song
-Think of all three elements from the beginning. Leave some space for the wildcard. If your strumming pattern is “too boring”, leave it like that. You can spice it up later with percussions by adding extra pulses or breaks. If the chord progression is too short or too long for a line, use it as an opportunity for another instrument to fill in the gap.
+Think of all three elements from the beginning. Leave some space for the wildcard. If your strumming pattern is “too boring”, leave it like that. You can spice it up later with percussions by adding extra pulses or breaks. If the chord progression is too short or too long for a line, use it as an opportunity for another instrument to fill in the gap. You can also introduce a harmony change in the bridge or last chorus.
 
 ## Arrangement
 Leaving enough space while writing the song will help you during the arrangement stage. There are entire books written about arrangements, but just keep the Rule of Threes always in mind. All three elements should be present.

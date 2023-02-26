@@ -8,12 +8,6 @@ layout: home
 This is a community-managed collection of tips and tricks for all stages of the music production process.
 All chips are labeled by Stage, Genre, Instrument, and Skill Level.
 
-## Random Chip
-{% assign random_chip = site.chips | sample %}
-### [{{ random_chip.title }}]({{ random_chip.url }})
-``` {{ random_chip.description }} ```
-
-
 ## Music Production Stages
 {% assign stages = site.data.stages | map: 'stages' | uniq %}
 {% for stage in stages %}

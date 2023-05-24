@@ -1,5 +1,5 @@
 ---
-title: Basic Mastering for EDM tracks
+title: Basic Mastering Checklist for EDM tracks
 description: >
   This checklist will help you to avoid common mistakes and get good-quality
   tracks without using expensive equipment or asking for external help.

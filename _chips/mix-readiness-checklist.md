@@ -7,6 +7,7 @@ genre:
   - all
 stage:
   - mixing
+  - mastering
 instrument:
   - all
 level:

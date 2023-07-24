@@ -1,5 +1,5 @@
 ---
-title: How to use distortion and saturation in mixing
+title: How to Use Distortion and Saturation in Mixing
 description: >
   Saturation is a very powerful tool at the mixing stage, and in this article I'll cover the most common uses.
 yt_video:
@@ -9,11 +9,12 @@ stage:
   - mixing
 instrument:
   - all
+  - kick
+  - bass
+  - vocals
 level:
   - beginner
 ---
-If you'd like to understand the difference between saturation and distortion, you can read [this article]({% link _chips/understanding-saturation.md %})
-
 ### Adding punch to the low end
 1-2dB of saturation can help the kick and the bass to cut through the mix.
 Keep in mind that saturation acts as a compressor and will eat up the transients. Use parallel processing to get the best results.

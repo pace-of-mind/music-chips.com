@@ -37,3 +37,6 @@ Get creative with saturation, guitar pedals, guitar amps.
 
 ### Use automation to create more movement
 You can apply automation to any of the plug-ins listed above to get the best results.
+
+### Manual and semi-manual edits of the Duplicate
+You can use Ableton Warp, Logic Flex or other DAWs to quantize and/or humanise the tracks to introduce timing differences per note. This is a labour-intensive option, so it may be easier to just record another take of the same instrument.

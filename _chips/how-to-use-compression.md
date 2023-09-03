@@ -11,5 +11,5 @@ stage:
 instrument:
   - all
 level:
-  - advanced
+  - beginner
 ---

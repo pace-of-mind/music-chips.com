@@ -6,7 +6,6 @@ yt_video: https://www.youtube.com/embed/K0XGXz6SHco
 genre:
   - all
 stage:
-  - sound design
   - mixing
 instrument:
   - all

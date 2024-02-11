@@ -23,7 +23,7 @@ layout: single
     <p>Genres:
     {% for genre in page.genre %}{{ genre }} {% endfor %}</p>
     <p>Instruments:
-    {% for instrument in page.instrument %}{{ instrument }} {% endfor %}</p>
+    {% for instrument in page.instrument %}<a href="/instruments/{{ instrument }}.html">{{ instrument }}</a> {% endfor %}</p>
     <p>Stages of production:
     {% for stage in page.stage %}<a href="/stage-{{- stage | replace: " ","-" -}}.html">{{ stage }}</a> {% endfor %}</p>
   </div>

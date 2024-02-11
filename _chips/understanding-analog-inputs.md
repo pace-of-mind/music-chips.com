@@ -8,7 +8,8 @@ genre:
 stage:
   - recording
 instrument:
-  - all, guitar
+  - all
+  - guitar
 level:
   - beginner
 ---

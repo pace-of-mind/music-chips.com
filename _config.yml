@@ -9,9 +9,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/"
 url: "https://music-chips.com"
 locale: en
-youtube_username: "@side_gig"
+youtube_username: "@pace-of-mind"
 github_username:  "music-production-chips"
-instagram_username: aka_unicast
+instagram_username: "pace_of_mind_/"
 footer:
   links:
     - label: "Youtube"
@@ -35,6 +35,7 @@ minimal_mistakes_skin: "mint"
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 feed:
   collections:

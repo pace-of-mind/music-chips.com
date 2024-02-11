@@ -11,7 +11,7 @@ All chips are labeled by Stage, Genre, Instrument, and Skill Level.
 ## Music Production Stages
 {% assign stages = site.data.stages | map: 'stages' | uniq %}
 {% for stage in stages %}
-  <h3><a href="/stage-{{- stage | replace: " ","-" -}}.html">{{ stage | capitalize }}</a></h3>
+  <h3><a href="/stages/{{ stage | replace: " ","-" }}.html">{{ stage | capitalize }}</a></h3>
   <ul>
   {% for chip in site.chips %}
     {% if chip.stage contains stage %}

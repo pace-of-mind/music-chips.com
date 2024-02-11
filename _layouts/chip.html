@@ -25,7 +25,7 @@ layout: single
     <p>Instruments:
     {% for instrument in page.instrument %}<a href="/instruments/{{ instrument  | replace: " ","-" }}.html">{{ instrument }}</a> {% endfor %}</p>
     <p>Stages of production:
-    {% for stage in page.stage %}<a href="/stage-{{- stage | replace: " ","-" -}}.html">{{ stage }}</a> {% endfor %}</p>
+    {% for stage in page.stage %}<a href="/stages/{{ stage | replace: " ","-" }}.html">{{ stage }}</a> {% endfor %}</p>
   </div>
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

@@ -21,9 +21,9 @@ layout: single
     {% endif %}
     <h3>This technique is used:</h3>
     <p>Genres:
-    {% for genre in page.genre %}{{ genre }} {% endfor %}</p>
+    {% for genre in page.genre %}<a href="/genres/{{ genre  | replace: " ","-" }}.html">{{ genre }}</a> {% endfor %}</p>
     <p>Instruments:
-    {% for instrument in page.instrument %}<a href="/instruments/{{ instrument }}.html">{{ instrument }}</a> {% endfor %}</p>
+    {% for instrument in page.instrument %}<a href="/instruments/{{ instrument  | replace: " ","-" }}.html">{{ instrument }}</a> {% endfor %}</p>
     <p>Stages of production:
     {% for stage in page.stage %}<a href="/stage-{{- stage | replace: " ","-" -}}.html">{{ stage }}</a> {% endfor %}</p>
   </div>

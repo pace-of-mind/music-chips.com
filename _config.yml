@@ -16,13 +16,13 @@ footer:
   links:
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://youtube.com/@side_gig"
+      url: "https://youtube.com/@pace-of-mind"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pace-of-mind/music-chips.com"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/aka_unicast"
+      url: "https://instagram.com/pace_of_mind_/"
 analytics:
   provider: "google-gtag"
   google:

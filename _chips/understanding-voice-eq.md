@@ -11,6 +11,7 @@ stage:
   - mixing
 instrument:
   - voice
+  - vocals
 level:
   - advanced
 ---

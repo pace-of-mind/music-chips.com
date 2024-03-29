@@ -1,5 +1,5 @@
 ---
-title: Mixing low end
+title: Mixing Low End
 description: >
   In this video, Alice covers all the modern techniques for getting the perfect low end in your mix.
 yt_video: https://www.youtube.com/embed/_hr9bSYqmDo

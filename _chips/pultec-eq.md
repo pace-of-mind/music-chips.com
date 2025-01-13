@@ -7,7 +7,7 @@ description: >
   near 200Hz.
 yt_video: https://www.youtube.com/embed/ULpT-jG1pak
 genre:
-  - electronic
+  - electronic dance music
   - house
   - techno
 stage:

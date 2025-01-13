@@ -6,7 +6,7 @@ description: >
   the Autopan plugin, apply a high-pass filter and mix it back.
 yt_video: https://www.youtube.com/embed/HgIRUr0ySaE
 genre:
-  - EDM
+  - electronic dance music
 stage:
   - sound design
   - editing

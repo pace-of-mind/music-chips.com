@@ -16,7 +16,8 @@ level:
   - beginner
 
 ---
-- [ ] Route tracks into groups (BUSes), apply [Glue Compressor](/chips/glue-compressor) if needed.
+{% assign link = site.chips | where: "slug", "glue-compressor" | first %}
+- [ ] Route tracks into groups (BUSes), apply [Glue Compressor]({{ link.url }}) if needed.
 
 - [ ] Apply side-EQ on the master to ensure your track is mono below 100-150Hz unless intended.
 
